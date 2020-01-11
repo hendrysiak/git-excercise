@@ -19,7 +19,7 @@ body {
 .card__number::before {
     font-weight: bold;
     font-size: 30px;
-    content: counter(card__number)
+    content: counter(card__number);
 }
 
 .card {
@@ -36,4 +36,8 @@ body {
 
 .card:nth-child(3) {
     background-color: green;
+}
+
+.card:nth-child(4) {
+    background-color: blue;
 }
