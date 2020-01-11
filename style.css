@@ -5,4 +5,5 @@ body {
 p {
     background-color: #ccc;
     box-shadow: 2px 10px 12px black;
+    border: 2px solid blue;
 }
