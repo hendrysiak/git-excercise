@@ -9,3 +9,4 @@ It's repo to testing git
 ### Start project
 
 1. You should only start ```index.html```!
+git@github.com:hendrysiak/git-excercise.git
